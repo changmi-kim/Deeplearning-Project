@@ -2,16 +2,13 @@
 
 This is a test space for technical review.
 
-![](result.png)
-
 ## gesture_law.py
 
 - How to run?
 ```
 python3 gesture_law.py
 ```
- 
- ![](gesture_law.git)
+![Gesture Law Image](gesture_law.gif)
 
 ## pose_estimation_hands_to_keyboard.py
 
@@ -19,6 +16,7 @@ python3 gesture_law.py
 ```
 python3 pose_estimation_hands_to_keyboard.py
 ```
+![Hands to Keyboard Image](pose_estimation_hands_to_keyboard.gif)
 
 ## pose_estimation_body_to_keyboard.py
 
@@ -27,4 +25,4 @@ python3 pose_estimation_hands_to_keyboard.py
 python3 pose_estimation_body_to_keyboard.py
 ```
 
-![](pose_estimation_body_to_keyboard.git)
+![Body to Keyboard Image](pose_estimation_body_to_keyboard.gif)
