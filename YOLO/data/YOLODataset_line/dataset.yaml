@@ -1,0 +1,5 @@
+train: /home/hangyu/dev_ws/yolov8/data/line_label/YOLODataset/images/train/
+val: /home/hangyu/dev_ws/yolov8/data/line_label/YOLODataset/images/val/
+test: /home/hangyu/dev_ws/yolov8/data/line_label/YOLODataset/images/test/
+nc: 4
+names: ["red_line", "obstacle", "blue_line", "robot"]
